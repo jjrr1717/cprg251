@@ -1,0 +1,16 @@
+Report                      TITLING-CourseTime: 67.9      Mon Jan 21 13:45:05 MST 2019
+
+ID            Name            Running              Penalty           Total           Over/
+                              Time                                                   Under
+5X540        Heath            53.4                 0                 53.4            -14.5
+3M778        Ranger           49.1                 0                 49.1            -18.8
+256DA        Dax              15.0                 10                25.0            -42.9
+5X540        Heath            53.4                 0                 53.4            -14.5
+3M778        Ranger           49.1                 0                 49.1            -18.8
+256DA        Dax              15.0                 10                25.0            -42.9
+5X540        Heath            53.4                 0                 53.4            -14.5
+3M778        Ranger           49.1                 0                 49.1            -18.8
+256DA        Dax              15.0                 10                25.0            -42.9
+
+Winning Dog:                       Dax       Time 25.0
+Highest Penality Time:             Dax       Time 10

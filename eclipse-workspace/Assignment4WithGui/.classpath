@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="lib" path="C:/Users/783661/eclipse-workspace/Assignment4/JWegen4Backend.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

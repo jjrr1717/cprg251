@@ -1,0 +1,5 @@
+Joe Blow;44;42.0;12.45;
+Daffy Duck;67;25.0;56.78;
+Foghorn Leghorn;100;33.0;8.5;
+Dr. Evil;40;5.0;1000000.0;
+Jocelyn;123;50.0;-1.0;

@@ -1,0 +1,1 @@
+java -jar JWegen3.jar
